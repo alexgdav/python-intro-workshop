@@ -11,9 +11,9 @@ with open('LICENSE.md') as f:
     license = f.read()
 
 setup(
-    name='sample',
+    name='python_tech_talk',
     version='0.1.0',
-    description='Sample package for Python-Guide.org',
+    description='Repository for Python Tech Talk',
     long_description=readme,
     author='<author>',
     author_email='<email>',
