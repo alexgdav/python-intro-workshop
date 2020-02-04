@@ -13,7 +13,7 @@ class Crayon():
       print('This crayon is all used up!')
 
   def melt(self):
-    if (self.form == 'solid'):
+    if self.form == 'solid':
       self.length = 0
       self.form = 'liquid'
     else:
